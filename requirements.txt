@@ -1,0 +1,26 @@
+# Core Python libraries
+numpy
+pandas
+
+# Machine Learning / NLP
+scikit-learn
+spacy
+
+# LLM & GenAI frameworks
+langchain
+mem0
+openai   # (if using OpenAI LLMs)
+google-generativeai   # (if using Gemini LLM)
+
+# Vector Database
+pinecone-client
+
+# Web frameworks
+streamlit
+chainlit
+fastapi
+uvicorn
+
+# Utilities
+python-dotenv
+requests
