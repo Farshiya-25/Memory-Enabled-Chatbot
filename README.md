@@ -70,7 +70,7 @@ Pinecone API Key
 
 Clone the repository
 ```
-git clone 
+git clone https://github.com/Farshiya-25/Memory-Enabled-Chatbot
 cd memory_bot
 
 # Create a virtual environment
